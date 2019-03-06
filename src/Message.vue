@@ -78,7 +78,7 @@ export default {
   }
 }
 </script>
-<style lang="scss">
+<style lang="scss" scoped>
 .sc-message {
   width: 300px;
   margin: auto;
